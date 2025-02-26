@@ -14,7 +14,7 @@ This project implements a simple login functionality using an API. The login for
    ```
 2. Navigate to the project directory:
    ```sh
-   cd project-directory
+   cd nextsoft-test
    ```
 3. Open `login.html` in your preferred browser.
 
